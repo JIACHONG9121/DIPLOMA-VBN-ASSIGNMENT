@@ -1,0 +1,18 @@
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn assignment.vbprojAssemblyReference.cache
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.login_page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Main_page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Resources.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn assignment.vbproj.GenerateResource.cache
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\bin\Debug\vbn assignment.exe.config
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\bin\Debug\vbn assignment.exe
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\bin\Debug\vbn assignment.pdb
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\bin\Debug\vbn assignment.xml
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn assignment.exe
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn assignment.xml
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn assignment.pdb
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Registration_form.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Customer_login_page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Menu_page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Check_Out_page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Modify_Page.resources
+C:\Users\60127\source\repos\vbn assignment\vbn assignment\obj\Debug\vbn_assignment.Payment_Section.resources
